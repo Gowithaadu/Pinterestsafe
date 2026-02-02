@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pinterest Deals | Smart Picks</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f5f5f5; color: #333; }
+    header { background: #e60023; color: #fff; padding: 20px; text-align: center; }
+    section { padding: 20px; max-width: 1000px; margin: auto; }
+    .card { background: #fff; border-radius: 8px; padding: 16px; margin-bottom: 16px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    .card img { width: 100%; border-radius: 6px; }
+    .btn { display: inline-block; margin-top: 10px; padding: 10px 16px; background: #e60023; color: #fff; text-decoration: none; border-radius: 6px; }
+    footer { text-align: center; padding: 20px; font-size: 14px; background: #ddd; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Smart Picks from Pinterest</h1>
+    <p>Best products • Honest recommendations</p>
+  </header>  <section>
+    <div class="card">
+      <img src="https://via.placeholder.com/800x450" alt="Product Image">
+      <h2>Best Study Lamp for Students</h2>
+      <p>Ye study lamp night study ke liye perfect hai. Eyes-friendly light aur low power consumption.</p>
+      <a href="#" class="btn">Check Price</a>
+    </div><div class="card">
+  <img src="https://via.placeholder.com/800x450" alt="Product Image">
+  <h2>Top Fitness Band 2026</h2>
+  <p>Daily steps, heart rate aur sleep tracking ke liye best budget fitness band.</p>
+  <a href="#" class="btn">Buy Now</a>
+</div>
+
+  </section>  <footer>
+    <p>© 2026 | Your Website Name</p>
+    <p>Disclaimer: This website contains affiliate links.</p>
+  </footer>
+</body>
+</html>
